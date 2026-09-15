@@ -1,2 +1,2 @@
 # carrosel
-Carrosel
+Carrosel com Bootstrap
